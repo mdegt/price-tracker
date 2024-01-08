@@ -1,0 +1,11 @@
+/Users/Mike/workspaces/pricetracker/PriceTracker/bin/Release/net6.0/publish/PriceTracker
+/Users/Mike/workspaces/pricetracker/PriceTracker/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/Mike/workspaces/pricetracker/PriceTracker/bin/Release/net6.0/publish/appsettings.json
+/Users/Mike/workspaces/pricetracker/PriceTracker/bin/Release/net6.0/publish/PriceTracker.dll
+/Users/Mike/workspaces/pricetracker/PriceTracker/bin/Release/net6.0/publish/PriceTracker.deps.json
+/Users/Mike/workspaces/pricetracker/PriceTracker/bin/Release/net6.0/publish/PriceTracker.runtimeconfig.json
+/Users/Mike/workspaces/pricetracker/PriceTracker/bin/Release/net6.0/publish/PriceTracker.pdb
+/Users/Mike/workspaces/pricetracker/PriceTracker/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/Users/Mike/workspaces/pricetracker/PriceTracker/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Mike/workspaces/pricetracker/PriceTracker/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Mike/workspaces/pricetracker/PriceTracker/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
